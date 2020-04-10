@@ -2,7 +2,7 @@
     "poissons":[
         {
             "Nom":"Anchois",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 0,
                 1,
@@ -42,7 +42,7 @@
         },
         {
             "Nom":"Arapaïma",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 5,
                 6,
@@ -74,7 +74,7 @@
         },
         {
             "Nom":"Arowana",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 5,
                 6,
@@ -106,6 +106,7 @@
         },
         {
             "Nom":"Ayu",
+            "Rareté":0,
             "Période":[
                 6,
                 7,
@@ -143,6 +144,7 @@
         },
         {
             "Nom":"Bar",
+            "Rareté": 0,
             "Période":[
                 0,
                 1,
@@ -189,6 +191,7 @@
         },
         {
             "Nom":"Bar commun",
+            "Rareté": 0,
             "Période":[
                 0,
                 1,
@@ -235,7 +238,7 @@
         },
         {
             "Nom":"Bichir",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 5,
                 6,
@@ -257,6 +260,7 @@
         },
         {
             "Nom":"Bouvière",
+            "Rareté": 0,
             "Période":[
                 0,
                 1,
@@ -296,7 +300,7 @@
         },
         {
             "Nom":"Brochet",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 8,
                 9,
@@ -335,7 +339,7 @@
         },
         {
             "Nom":"Calmar",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 0,
                 1,
@@ -379,7 +383,7 @@
         },
         {
             "Nom":"Carangue grosse tête",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 4,
                 5,
@@ -420,6 +424,7 @@
         },
         {
             "Nom":"Carassin",
+            "Rareté": 0,
             "Période":[
                 0,
                 1,
@@ -466,7 +471,7 @@
         },
         {
             "Nom":"Cardeau",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 0,
                 1,
@@ -513,6 +518,7 @@
         },
         {
             "Nom":"Carpe",
+            "Rareté": 0,
             "Période":[
                 0,
                 1,
@@ -559,7 +565,7 @@
         },
         {
             "Nom":"Carpe koï",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 0,
                 1,
@@ -599,6 +605,7 @@
         },
         {
             "Nom":"Chevaine",
+            "Rareté": 0,
             "Période":[
                 0,
                 1,
@@ -628,6 +635,7 @@
         },
         {
             "Nom":"Chinchard",
+            "Rareté": 0,
             "Période":[
                 0,
                 1,
@@ -674,6 +682,7 @@
         },
         {
             "Nom":"Clione",
+            "Rareté": 0,
             "Période":[
                 0,
                 1,
@@ -712,7 +721,7 @@
         },
         {
             "Nom":"Combattant",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 4,
                 5,
@@ -736,7 +745,7 @@
         },
         {
             "Nom":"Coryphène",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 4,
                 5,
@@ -777,7 +786,7 @@
         },
         {
             "Nom":"Crabe chinois",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 8,
                 9,
@@ -808,6 +817,7 @@
         },
         {
             "Nom":"Crapet",
+            "Rareté": 0,
             "Période":[
                 0,
                 1,
@@ -837,7 +847,7 @@
         },
         {
             "Nom":"Cyprin doré",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 0,
                 1,
@@ -867,7 +877,7 @@
         },
         {
             "Nom":"Cœlacanthe",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 0,
                 1,
@@ -914,7 +924,7 @@
         },
         {
             "Nom":"Dai yu",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 0,
                 1,
@@ -946,7 +956,7 @@
         },
         {
             "Nom":"Dorado",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 5,
                 6,
@@ -978,6 +988,7 @@
         },
         {
             "Nom":"Ecrevisse",
+            "Rareté": 0,
             "Période":[
                 3,
                 4,
@@ -1018,6 +1029,7 @@
         },
         {
             "Nom":"Eperlan",
+            "Rareté": 0,
             "Période":[
                 0,
                 1,
@@ -1055,7 +1067,7 @@
         },
         {
             "Nom":"Esturgeon",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 0,
                 1,
@@ -1097,6 +1109,7 @@
         },
         {
             "Nom":"Fondule barré",
+            "Rareté": 0,
             "Période":[
                 3,
                 4,
@@ -1136,7 +1149,7 @@
         },
         {
             "Nom":"Gar",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 5,
                 6,
@@ -1168,7 +1181,7 @@
         },
         {
             "Nom":"Gobie d'eau douce",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 0,
                 1,
@@ -1208,7 +1221,7 @@
         },
         {
             "Nom":"Grand requin blanc",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 5,
                 6,
@@ -1240,6 +1253,7 @@
         },
         {
             "Nom":"Grenouille",
+            "Rareté": 0,
             "Période":[
                 4,
                 5,
@@ -1278,6 +1292,7 @@
         },
         {
             "Nom":"Guppy",
+            "Rareté": 0,
             "Période":[
                 3,
                 4,
@@ -1303,6 +1318,7 @@
         },
         {
             "Nom":"Hippocampe",
+            "Rareté": 0,
             "Période":[
                 3,
                 4,
@@ -1345,6 +1361,7 @@
         },
         {
             "Nom":"Limande",
+            "Rareté": 0,
             "Période":[
                 0,
                 1,
@@ -1386,6 +1403,7 @@
         },
         {
             "Nom":"Loche d'étang",
+            "Rareté": 0,
             "Période":[
                 2,
                 3,
@@ -1423,7 +1441,7 @@
         },
         {
             "Nom":"Lune de mer",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 6,
                 7,
@@ -1454,7 +1472,7 @@
         },
         {
             "Nom":"Macropinna",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 0,
                 1,
@@ -1484,7 +1502,7 @@
         },
         {
             "Nom":"Marlin bleu",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 0,
                 1,
@@ -1528,7 +1546,7 @@
         },
         {
             "Nom":"Murène",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 7,
                 8,
@@ -1566,6 +1584,7 @@
         },
         {
             "Nom":"Murène ruban bleue",
+            "Rareté": 0,
             "Période":[
                 5,
                 6,
@@ -1605,7 +1624,7 @@
         },
         {
             "Nom":"Napoléon",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 6,
                 7
@@ -1635,6 +1654,7 @@
         },
         {
             "Nom":"Néon bleu",
+            "Rareté": 0,
             "Période":[
                 3,
                 4,
@@ -1660,7 +1680,7 @@
         },
         {
             "Nom":"Omble",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 2,
                 3,
@@ -1695,6 +1715,7 @@
         },
         {
             "Nom":"Perche jaune",
+            "Rareté": 0,
             "Période":[
                 0,
                 1,
@@ -1735,7 +1756,7 @@
         },
         {
             "Nom":"Piranha",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 5,
                 6,
@@ -1764,6 +1785,7 @@
         },
         {
             "Nom":"Poisson arc-en-ciel",
+            "Rareté": 0,
             "Période":[
                 4,
                 5,
@@ -1787,6 +1809,7 @@
         },
         {
             "Nom":"Poisson chirurgien",
+            "Rareté": 0,
             "Période":[
                 3,
                 4,
@@ -1827,6 +1850,7 @@
         },
         {
             "Nom":"Poisson docteur",
+            "Rareté": 0,
             "Période":[
                 4,
                 5,
@@ -1849,7 +1873,7 @@
         },
         {
             "Nom":"Poisson lanterne",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 0,
                 1,
@@ -1882,7 +1906,7 @@
         },
         {
             "Nom":"Poisson rouge",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 0,
                 1,
@@ -1929,7 +1953,7 @@
         },
         {
             "Nom":"Poisson-ange",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 4,
                 5,
@@ -1963,7 +1987,7 @@
         },
         {
             "Nom":"Poisson-ballon",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 0,
                 1,
@@ -1985,6 +2009,7 @@
         },
         {
             "Nom":"Poisson-clown",
+            "Rareté": 0,
             "Période":[
                 3,
                 4,
@@ -2025,6 +2050,7 @@
         },
         {
             "Nom":"Poisson-papillon",
+            "Rareté": 0,
             "Période":[
                 3,
                 4,
@@ -2065,6 +2091,7 @@
         },
         {
             "Nom":"Poisson-porc-épic",
+            "Rareté": 0,
             "Période":[
                 6,
                 7,
@@ -2102,7 +2129,7 @@
         },
         {
             "Nom":"Poisson-ruban",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 0,
                 1,
@@ -2143,6 +2170,7 @@
         },
         {
             "Nom":"Poisson-scorpion",
+            "Rareté": 0,
             "Période":[
                 3,
                 4,
@@ -2185,7 +2213,7 @@
         },
         {
             "Nom":"Raie",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 7,
                 8,
@@ -2217,7 +2245,7 @@
         },
         {
             "Nom":"Ranchu",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 0,
                 1,
@@ -2247,7 +2275,7 @@
         },
         {
             "Nom":"Rémora rayé",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 5,
                 6,
@@ -2286,7 +2314,7 @@
         },
         {
             "Nom":"Requin marteau",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 5,
                 6,
@@ -2318,7 +2346,7 @@
         },
         {
             "Nom":"Requin scie",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 5,
                 6,
@@ -2350,7 +2378,7 @@
         },
         {
             "Nom":"Requin-baleine",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 5,
                 6,
@@ -2389,6 +2417,7 @@
         },
         {
             "Nom":"Saumon",
+            "Rareté": 0,
             "Période":[
                 8
             ],
@@ -2424,6 +2453,7 @@
         },
         {
             "Nom":"Saumon masou",
+            "Rareté": 0,
             "Période":[
                 2,
                 3,
@@ -2458,7 +2488,7 @@
         },
         {
             "Nom":"Saumon roi",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 8
             ],
@@ -2494,7 +2524,7 @@
         },
         {
             "Nom":"Scarus",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 2,
                 3,
@@ -2538,6 +2568,7 @@
         },
         {
             "Nom":"Silure",
+            "Rareté": 0,
             "Période":[
                 4,
                 5,
@@ -2571,7 +2602,7 @@
         },
         {
             "Nom":"Têtard",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 2,
                 3,
@@ -2611,7 +2642,7 @@
         },
         {
             "Nom":"Tête-de-serpent",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 6,
                 7
@@ -2631,7 +2662,7 @@
         },
         {
             "Nom":"Thon",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 0,
                 1,
@@ -2671,6 +2702,7 @@
         },
         {
             "Nom":"Tilapia",
+            "Rareté": 0,
             "Période":[
                 5,
                 6,
@@ -2710,7 +2742,7 @@
         },
         {
             "Nom":"Tortue serpentine",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 3,
                 4,
@@ -2735,7 +2767,7 @@
         },
         {
             "Nom":"Tortue trionyx",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 7,
                 8
@@ -2765,7 +2797,7 @@
         },
         {
             "Nom":"Truite dorée",
-            "Rareté":"Très rare",
+            "Rareté":2,
             "Période":[
                 0,
                 1,
@@ -2801,6 +2833,7 @@
         },
         {
             "Nom":"Vandoise",
+            "Rareté": 0,
             "Période":[
                 0,
                 1,
@@ -2840,7 +2873,7 @@
         },
         {
             "Nom":"Vivaneau",
-            "Rareté":"Rare",
+            "Rareté":1,
             "Période":[
                 0,
                 1,
