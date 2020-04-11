@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "label": {
+      "fr": "Commun",
+      "en": "Common"
+    }
+  },
+  {
+    "id": 1,
+    "label": {
+      "fr": "Rare",
+      "en": "Rare"
+    }
+  },
+  {
+    "id": 2,
+    "label": {
+      "fr": "Très rare",
+      "en": "Very rare"
+    }
+  }
+]

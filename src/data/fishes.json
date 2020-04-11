@@ -1,9 +1,12 @@
 {
     "poissons":[
         {
-            "Nom":"Anchois",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Anchois"
+            },
+            "rarity":1,
+            "months":[
                 0,
                 1,
                 2,
@@ -17,7 +20,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 4,
                 5,
                 6,
@@ -36,20 +39,23 @@
                 19,
                 20
             ],
-            "Lieu":"Océan",
-            "Prix":200,
-            "Taille":"Petite"
+            "location":[0],
+            "sellPrice":200,
+            "size":"Petite"
         },
         {
-            "Nom":"Arapaïma",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Arapaïma"
+            },
+            "rarity":2,
+            "months":[
                 5,
                 6,
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -68,20 +74,23 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":10000,
-            "Taille":"Énorme"
+            "location":[2],
+            "sellPrice":10000,
+            "size":"Énorme"
         },
         {
-            "Nom":"Arowana",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Arowana"
+            },
+            "rarity":2,
+            "months":[
                 5,
                 6,
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -100,19 +109,22 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":10000,
-            "Taille":"Moyenne"
+            "location":[2],
+            "sellPrice":10000,
+            "size":"Moyenne"
         },
         {
-            "Nom":"Ayu",
-            "Rareté":0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Ayu"
+            },
+            "rarity":0,
+            "months":[
                 6,
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -138,14 +150,17 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":900,
-            "Taille":"Petite/moyenne"
+            "location":[2],
+            "sellPrice":900,
+            "size":"Petite/moyenne"
         },
         {
-            "Nom":"Bar",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Bar"
+            },
+            "rarity": 0,
+            "months":[
                 0,
                 1,
                 2,
@@ -159,7 +174,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -185,14 +200,17 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":400,
-            "Taille":"Très grande"
+            "location":[2],
+            "sellPrice":400,
+            "size":"Très grande"
         },
         {
-            "Nom":"Bar commun",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Bar commun"
+            },
+            "rarity": 0,
+            "months":[
                 0,
                 1,
                 2,
@@ -206,7 +224,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -232,20 +250,23 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":400,
-            "Taille":"Très grande"
+            "location":[0],
+            "sellPrice":400,
+            "size":"Très grande"
         },
         {
-            "Nom":"Bichir",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Bichir"
+            },
+            "rarity":1,
+            "months":[
                 5,
                 6,
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -254,21 +275,24 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":4000,
-            "Taille":"Grande"
+            "location":[2],
+            "sellPrice":4000,
+            "size":"Grande"
         },
         {
-            "Nom":"Bouvière",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Bouvière"
+            },
+            "rarity": 0,
+            "months":[
                 0,
                 1,
                 2,
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -294,20 +318,23 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":900,
-            "Taille":"Minuscule"
+            "location":[2],
+            "sellPrice":900,
+            "size":"Minuscule"
         },
         {
-            "Nom":"Brochet",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Brochet"
+            },
+            "rarity":1,
+            "months":[
                 8,
                 9,
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -333,14 +360,17 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":1800,
-            "Taille":"Moyenne/grande"
+            "location":[2],
+            "sellPrice":1800,
+            "size":"Moyenne/grande"
         },
         {
-            "Nom":"Calmar",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Calmar"
+            },
+            "rarity":1,
+            "months":[
                 0,
                 1,
                 2,
@@ -351,7 +381,7 @@
                 7,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -377,14 +407,17 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":500,
-            "Taille":"Moyenne"
+            "location":[0],
+            "sellPrice":500,
+            "size":"Moyenne"
         },
         {
-            "Nom":"Carangue grosse tête",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Carangue grosse tête"
+            },
+            "rarity":1,
+            "months":[
                 4,
                 5,
                 6,
@@ -392,7 +425,7 @@
                 8,
                 9
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -418,14 +451,17 @@
                 22,
                 23
             ],
-            "Lieu":"Océan (ponton)",
-            "Prix":4500,
-            "Taille":"Énorme"
+            "location":[1],
+            "sellPrice":4500,
+            "size":"Énorme"
         },
         {
-            "Nom":"Carassin",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Carassin"
+            },
+            "rarity": 0,
+            "months":[
                 0,
                 1,
                 2,
@@ -439,7 +475,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -465,14 +501,17 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":160,
-            "Taille":"Petite"
+            "location":[2],
+            "sellPrice":160,
+            "size":"Petite"
         },
         {
-            "Nom":"Cardeau",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Cardeau"
+            },
+            "rarity":1,
+            "months":[
                 0,
                 1,
                 2,
@@ -486,7 +525,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -512,14 +551,17 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":800,
-            "Taille":"Très grande"
+            "location":[0],
+            "sellPrice":800,
+            "size":"Très grande"
         },
         {
-            "Nom":"Carpe",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Carpe"
+            },
+            "rarity": 0,
+            "months":[
                 0,
                 1,
                 2,
@@ -533,7 +575,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -559,14 +601,17 @@
                 22,
                 23
             ],
-            "Lieu":"Étang",
-            "Prix":300,
-            "Taille":"Moyenne"
+            "location":[24],
+            "sellPrice":300,
+            "size":"Moyenne"
         },
         {
-            "Nom":"Carpe koï",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Carpe koï"
+            },
+            "rarity":1,
+            "months":[
                 0,
                 1,
                 2,
@@ -580,7 +625,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -599,14 +644,17 @@
                 22,
                 23
             ],
-            "Lieu":"Étang",
-            "Prix":4000,
-            "Taille":"Moyenne"
+            "location":[24],
+            "sellPrice":4000,
+            "size":"Moyenne"
         },
         {
-            "Nom":"Chevaine",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Chevaine"
+            },
+            "rarity": 0,
+            "months":[
                 0,
                 1,
                 2,
@@ -620,7 +668,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 9,
                 10,
                 11,
@@ -629,14 +677,17 @@
                 14,
                 15
             ],
-            "Lieu":"Rivière",
-            "Prix":200,
-            "Taille":"Minuscule"
+            "location":[2],
+            "sellPrice":200,
+            "size":"Minuscule"
         },
         {
-            "Nom":"Chinchard",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Chinchard"
+            },
+            "rarity": 0,
+            "months":[
                 0,
                 1,
                 2,
@@ -650,7 +701,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -676,20 +727,23 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":150,
-            "Taille":"Petite"
+            "location":[0],
+            "sellPrice":150,
+            "size":"Petite"
         },
         {
-            "Nom":"Clione",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Clione"
+            },
+            "rarity": 0,
+            "months":[
                 0,
                 1,
                 2,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -715,14 +769,17 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":1000,
-            "Taille":"Minuscule"
+            "location":[0],
+            "sellPrice":1000,
+            "size":"Minuscule"
         },
         {
-            "Nom":"Combattant",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Combattant"
+            },
+            "rarity":1,
+            "months":[
                 4,
                 5,
                 6,
@@ -730,7 +787,7 @@
                 8,
                 9
             ],
-            "Heure":[
+            "hours":[
                 9,
                 10,
                 11,
@@ -739,14 +796,17 @@
                 14,
                 15
             ],
-            "Lieu":"Rivière",
-            "Prix":2500,
-            "Taille":"Petite"
+            "location":[2],
+            "sellPrice":2500,
+            "size":"Petite"
         },
         {
-            "Nom":"Coryphène",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Coryphène"
+            },
+            "rarity":1,
+            "months":[
                 4,
                 5,
                 6,
@@ -754,7 +814,7 @@
                 8,
                 9
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -780,19 +840,22 @@
                 22,
                 23
             ],
-            "Lieu":"Océan (ponton)",
-            "Prix":6000,
-            "Taille":"Très grande"
+            "location":[1],
+            "sellPrice":6000,
+            "size":"Très grande"
         },
         {
-            "Nom":"Crabe chinois",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Crabe chinois"
+            },
+            "rarity":1,
+            "months":[
                 8,
                 9,
                 10
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -811,14 +874,17 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":2000,
-            "Taille":"Petite"
+            "location":[2],
+            "sellPrice":2000,
+            "size":"Petite"
         },
         {
-            "Nom":"Crapet",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Crapet"
+            },
+            "rarity": 0,
+            "months":[
                 0,
                 1,
                 2,
@@ -832,7 +898,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 9,
                 10,
                 11,
@@ -841,14 +907,17 @@
                 14,
                 15
             ],
-            "Lieu":"Rivière",
-            "Prix":180,
-            "Taille":"Petite"
+            "location":[2],
+            "sellPrice":180,
+            "size":"Petite"
         },
         {
-            "Nom":"Cyprin doré",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Cyprin doré"
+            },
+            "rarity":2,
+            "months":[
                 0,
                 1,
                 2,
@@ -862,7 +931,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 9,
                 10,
                 11,
@@ -871,14 +940,17 @@
                 14,
                 15
             ],
-            "Lieu":"Étang",
-            "Prix":1300,
-            "Taille":"Minuscule"
+            "location":[24],
+            "sellPrice":1300,
+            "size":"Minuscule"
         },
         {
-            "Nom":"Cœlacanthe",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Cœlacanthe"
+            },
+            "rarity":2,
+            "months":[
                 0,
                 1,
                 2,
@@ -892,7 +964,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -918,20 +990,23 @@
                 22,
                 23
             ],
-            "Lieu":"Océan (pluie/neige/appât)",
-            "Prix":15000,
-            "Taille":"Énorme"
+            "location":[25],
+            "sellPrice":15000,
+            "size":"Énorme"
         },
         {
-            "Nom":"Dai yu",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Dai yu"
+            },
+            "rarity":2,
+            "months":[
                 0,
                 1,
                 2,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -950,20 +1025,23 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière (falaise)",
-            "Prix":15000,
-            "Taille":"Énorme"
+            "location":[3],
+            "sellPrice":15000,
+            "size":"Énorme"
         },
         {
-            "Nom":"Dorado",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Dorado"
+            },
+            "rarity":2,
+            "months":[
                 5,
                 6,
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 4,
                 5,
                 6,
@@ -982,14 +1060,17 @@
                 19,
                 20
             ],
-            "Lieu":"Rivière",
-            "Prix":15000,
-            "Taille":"Très grande"
+            "location":[2],
+            "sellPrice":15000,
+            "size":"Très grande"
         },
         {
-            "Nom":"Ecrevisse",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Ecrevisse"
+            },
+            "rarity": 0,
+            "months":[
                 3,
                 4,
                 5,
@@ -997,7 +1078,7 @@
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1023,19 +1104,22 @@
                 22,
                 23
             ],
-            "Lieu":"Étang",
-            "Prix":200,
-            "Taille":"Petite"
+            "location":[24],
+            "sellPrice":200,
+            "size":"Petite"
         },
         {
-            "Nom":"Eperlan",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Eperlan"
+            },
+            "rarity": 0,
+            "months":[
                 0,
                 1,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1061,14 +1145,17 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":320,
-            "Taille":"Petite"
+            "location":[2],
+            "sellPrice":320,
+            "size":"Petite"
         },
         {
-            "Nom":"Esturgeon",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Esturgeon"
+            },
+            "rarity":2,
+            "months":[
                 0,
                 1,
                 2,
@@ -1077,7 +1164,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1103,21 +1190,24 @@
                 22,
                 23
             ],
-            "Lieu":"Embouchure de rivière",
-            "Prix":10000,
-            "Taille":"Énorme"
+            "location":[4],
+            "sellPrice":10000,
+            "size":"Énorme"
         },
         {
-            "Nom":"Fondule barré",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Fondule barré"
+            },
+            "rarity": 0,
+            "months":[
                 3,
                 4,
                 5,
                 6,
                 7
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1143,20 +1233,23 @@
                 22,
                 23
             ],
-            "Lieu":"Étang",
-            "Prix":300,
-            "Taille":"Minuscule"
+            "location":[24],
+            "sellPrice":300,
+            "size":"Minuscule"
         },
         {
-            "Nom":"Gar",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Gar"
+            },
+            "rarity":2,
+            "months":[
                 5,
                 6,
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1175,14 +1268,17 @@
                 22,
                 23
             ],
-            "Lieu":"Étang",
-            "Prix":6000,
-            "Taille":"Énorme"
+            "location":[24],
+            "sellPrice":6000,
+            "size":"Énorme"
         },
         {
-            "Nom":"Gobie d'eau douce",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Gobie d'eau douce"
+            },
+            "rarity":1,
+            "months":[
                 0,
                 1,
                 2,
@@ -1196,7 +1292,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1215,20 +1311,23 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":400,
-            "Taille":"Petite"
+            "location":[2],
+            "sellPrice":400,
+            "size":"Petite"
         },
         {
-            "Nom":"Grand requin blanc",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Grand requin blanc"
+            },
+            "rarity":2,
+            "months":[
                 5,
                 6,
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1247,20 +1346,23 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":15000,
-            "Taille":"Énorme (aileron)"
+            "location":[0],
+            "sellPrice":15000,
+            "size":"Énorme (aileron)"
         },
         {
-            "Nom":"Grenouille",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Grenouille"
+            },
+            "rarity": 0,
+            "months":[
                 4,
                 5,
                 6,
                 7
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1286,14 +1388,17 @@
                 22,
                 23
             ],
-            "Lieu":"Étang",
-            "Prix":120,
-            "Taille":"Petite"
+            "location":[24],
+            "sellPrice":120,
+            "size":"Petite"
         },
         {
-            "Nom":"Guppy",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Guppy"
+            },
+            "rarity": 0,
+            "months":[
                 3,
                 4,
                 5,
@@ -1303,7 +1408,7 @@
                 9,
                 10
             ],
-            "Heure":[
+            "hours":[
                 9,
                 10,
                 11,
@@ -1312,14 +1417,17 @@
                 14,
                 15
             ],
-            "Lieu":"Rivière",
-            "Prix":1300,
-            "Taille":"Minuscule"
+            "location":[2],
+            "sellPrice":1300,
+            "size":"Minuscule"
         },
         {
-            "Nom":"Hippocampe",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Hippocampe"
+            },
+            "rarity": 0,
+            "months":[
                 3,
                 4,
                 5,
@@ -1329,7 +1437,7 @@
                 9,
                 10
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1355,14 +1463,17 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":1100,
-            "Taille":"Minuscule"
+            "location":[0],
+            "sellPrice":1100,
+            "size":"Minuscule"
         },
         {
-            "Nom":"Limande",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Limande"
+            },
+            "rarity": 0,
+            "months":[
                 0,
                 1,
                 2,
@@ -1371,7 +1482,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1397,19 +1508,22 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":300,
-            "Taille":"Moyenne"
+            "location":[0],
+            "sellPrice":300,
+            "size":"Moyenne"
         },
         {
-            "Nom":"Loche d'étang",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Loche d'étang"
+            },
+            "rarity": 0,
+            "months":[
                 2,
                 3,
                 4
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1435,19 +1549,22 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":400,
-            "Taille":"Petite/moyenne"
+            "location":[2],
+            "sellPrice":400,
+            "size":"Petite/moyenne"
         },
         {
-            "Nom":"Lune de mer",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Lune de mer"
+            },
+            "rarity":1,
+            "months":[
                 6,
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 4,
                 5,
                 6,
@@ -1466,14 +1583,17 @@
                 19,
                 20
             ],
-            "Lieu":"Océan",
-            "Prix":4000,
-            "Taille":"Énorme (aileron)"
+            "location":[0],
+            "sellPrice":4000,
+            "size":"Énorme (aileron)"
         },
         {
-            "Nom":"Macropinna",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Macropinna"
+            },
+            "rarity":2,
+            "months":[
                 0,
                 1,
                 2,
@@ -1487,7 +1607,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1496,14 +1616,17 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":15000,
-            "Taille":"Petite"
+            "location":[0],
+            "sellPrice":15000,
+            "size":"Petite"
         },
         {
-            "Nom":"Marlin bleu",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Marlin bleu"
+            },
+            "rarity":2,
+            "months":[
                 0,
                 1,
                 2,
@@ -1514,7 +1637,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1540,19 +1663,22 @@
                 22,
                 23
             ],
-            "Lieu":"Océan (ponton)",
-            "Prix":10000,
-            "Taille":"Énorme"
+            "location":[1],
+            "sellPrice":10000,
+            "size":"Énorme"
         },
         {
-            "Nom":"Murène",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Murène"
+            },
+            "rarity":1,
+            "months":[
                 7,
                 8,
                 9
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1578,21 +1704,24 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":2000,
-            "Taille":"Très grande"
+            "location":[0],
+            "sellPrice":2000,
+            "size":"Très grande"
         },
         {
-            "Nom":"Murène ruban bleue",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Murène ruban bleue"
+            },
+            "rarity": 0,
+            "months":[
                 5,
                 6,
                 7,
                 8,
                 9
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1618,18 +1747,21 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":600,
-            "Taille":"Fine"
+            "location":[0],
+            "sellPrice":600,
+            "size":"Fine"
         },
         {
-            "Nom":"Napoléon",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Napoléon"
+            },
+            "rarity":2,
+            "months":[
                 6,
                 7
             ],
-            "Heure":[
+            "hours":[
                 4,
                 5,
                 6,
@@ -1648,14 +1780,17 @@
                 19,
                 20
             ],
-            "Lieu":"Océan",
-            "Prix":10000,
-            "Taille":"Énorme"
+            "location":[0],
+            "sellPrice":10000,
+            "size":"Énorme"
         },
         {
-            "Nom":"Néon bleu",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Néon bleu"
+            },
+            "rarity": 0,
+            "months":[
                 3,
                 4,
                 5,
@@ -1665,7 +1800,7 @@
                 9,
                 10
             ],
-            "Heure":[
+            "hours":[
                 9,
                 10,
                 11,
@@ -1674,14 +1809,17 @@
                 14,
                 15
             ],
-            "Lieu":"Rivière",
-            "Prix":500,
-            "Taille":"Minuscule"
+            "location":[2],
+            "sellPrice":500,
+            "size":"Minuscule"
         },
         {
-            "Nom":"Omble",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Omble"
+            },
+            "rarity":1,
+            "months":[
                 2,
                 3,
                 4,
@@ -1690,7 +1828,7 @@
                 9,
                 10
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1709,14 +1847,17 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière (falaise)",
-            "Prix":3800,
-            "Taille":"Moyenne/grande"
+            "location":[3],
+            "sellPrice":3800,
+            "size":"Moyenne/grande"
         },
         {
-            "Nom":"Perche jaune",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Perche jaune"
+            },
+            "rarity": 0,
+            "months":[
                 0,
                 1,
                 2,
@@ -1724,7 +1865,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1750,20 +1891,23 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":300,
-            "Taille":"Petite/moyenne"
+            "location":[2],
+            "sellPrice":300,
+            "size":"Petite/moyenne"
         },
         {
-            "Nom":"Piranha",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Piranha"
+            },
+            "rarity":1,
+            "months":[
                 5,
                 6,
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1779,14 +1923,17 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":2500,
-            "Taille":"Petite"
+            "location":[2],
+            "sellPrice":2500,
+            "size":"Petite"
         },
         {
-            "Nom":"Poisson arc-en-ciel",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Poisson arc-en-ciel"
+            },
+            "rarity": 0,
+            "months":[
                 4,
                 5,
                 6,
@@ -1794,7 +1941,7 @@
                 8,
                 9
             ],
-            "Heure":[
+            "hours":[
                 9,
                 10,
                 11,
@@ -1803,14 +1950,17 @@
                 14,
                 15
             ],
-            "Lieu":"Rivière",
-            "Prix":800,
-            "Taille":"Minuscule"
+            "location":[2],
+            "sellPrice":800,
+            "size":"Minuscule"
         },
         {
-            "Nom":"Poisson chirurgien",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Poisson chirurgien"
+            },
+            "rarity": 0,
+            "months":[
                 3,
                 4,
                 5,
@@ -1818,7 +1968,7 @@
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1844,21 +1994,24 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":1000,
-            "Taille":"Petite"
+            "location":[0],
+            "sellPrice":1000,
+            "size":"Petite"
         },
         {
-            "Nom":"Poisson docteur",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Poisson docteur"
+            },
+            "rarity": 0,
+            "months":[
                 4,
                 5,
                 6,
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 9,
                 10,
                 11,
@@ -1867,21 +2020,24 @@
                 14,
                 15
             ],
-            "Lieu":"Rivière",
-            "Prix":1500,
-            "Taille":"Petite"
+            "location":[2],
+            "sellPrice":1500,
+            "size":"Petite"
         },
         {
-            "Nom":"Poisson lanterne",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Poisson lanterne"
+            },
+            "rarity":1,
+            "months":[
                 0,
                 1,
                 2,
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1900,14 +2056,17 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":2500,
-            "Taille":"Grande"
+            "location":[0],
+            "sellPrice":2500,
+            "size":"Grande"
         },
         {
-            "Nom":"Poisson rouge",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Poisson rouge"
+            },
+            "rarity":2,
+            "months":[
                 0,
                 1,
                 2,
@@ -1921,7 +2080,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1947,14 +2106,17 @@
                 22,
                 23
             ],
-            "Lieu":"Étang",
-            "Prix":1300,
-            "Taille":"Minuscule"
+            "location":[24],
+            "sellPrice":1300,
+            "size":"Minuscule"
         },
         {
-            "Nom":"Poisson-ange",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Poisson-ange"
+            },
+            "rarity":1,
+            "months":[
                 4,
                 5,
                 6,
@@ -1962,7 +2124,7 @@
                 8,
                 9
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -1981,20 +2143,23 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":3000,
-            "Taille":"Petite"
+            "location":[2],
+            "sellPrice":3000,
+            "size":"Petite"
         },
         {
-            "Nom":"Poisson-ballon",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Poisson-ballon"
+            },
+            "rarity":1,
+            "months":[
                 0,
                 1,
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2003,14 +2168,17 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":5000,
-            "Taille":"Moyenne"
+            "location":[0],
+            "sellPrice":5000,
+            "size":"Moyenne"
         },
         {
-            "Nom":"Poisson-clown",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Poisson-clown"
+            },
+            "rarity": 0,
+            "months":[
                 3,
                 4,
                 5,
@@ -2018,7 +2186,7 @@
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2044,14 +2212,17 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":650,
-            "Taille":"Minuscule"
+            "location":[0],
+            "sellPrice":650,
+            "size":"Minuscule"
         },
         {
-            "Nom":"Poisson-papillon",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Poisson-papillon"
+            },
+            "rarity": 0,
+            "months":[
                 3,
                 4,
                 5,
@@ -2059,7 +2230,7 @@
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2085,19 +2256,22 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":1000,
-            "Taille":"Petite"
+            "location":[0],
+            "sellPrice":1000,
+            "size":"Petite"
         },
         {
-            "Nom":"Poisson-porc-épic",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Poisson-porc-épic"
+            },
+            "rarity": 0,
+            "months":[
                 6,
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2123,14 +2297,17 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":250,
-            "Taille":"Moyenne"
+            "location":[0],
+            "sellPrice":250,
+            "size":"Moyenne"
         },
         {
-            "Nom":"Poisson-ruban",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Poisson-ruban"
+            },
+            "rarity":2,
+            "months":[
                 0,
                 1,
                 2,
@@ -2138,7 +2315,7 @@
                 4,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2164,14 +2341,17 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":9000,
-            "Taille":"Énorme"
+            "location":[0],
+            "sellPrice":9000,
+            "size":"Énorme"
         },
         {
-            "Nom":"Poisson-scorpion",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Poisson-scorpion"
+            },
+            "rarity": 0,
+            "months":[
                 3,
                 4,
                 5,
@@ -2181,7 +2361,7 @@
                 9,
                 10
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2207,20 +2387,23 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":500,
-            "Taille":"Moyenne"
+            "location":[0],
+            "sellPrice":500,
+            "size":"Moyenne"
         },
         {
-            "Nom":"Raie",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Raie"
+            },
+            "rarity":1,
+            "months":[
                 7,
                 8,
                 9,
                 10
             ],
-            "Heure":[
+            "hours":[
                 4,
                 5,
                 6,
@@ -2239,14 +2422,17 @@
                 19,
                 20
             ],
-            "Lieu":"Océan",
-            "Prix":3000,
-            "Taille":"Énorme"
+            "location":[0],
+            "sellPrice":3000,
+            "size":"Énorme"
         },
         {
-            "Nom":"Ranchu",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Ranchu"
+            },
+            "rarity":2,
+            "months":[
                 0,
                 1,
                 2,
@@ -2260,7 +2446,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 9,
                 10,
                 11,
@@ -2269,20 +2455,23 @@
                 14,
                 15
             ],
-            "Lieu":"Étang",
-            "Prix":4500,
-            "Taille":"Petite"
+            "location":[24],
+            "sellPrice":4500,
+            "size":"Petite"
         },
         {
-            "Nom":"Rémora rayé",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Rémora rayé"
+            },
+            "rarity":1,
+            "months":[
                 5,
                 6,
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2308,20 +2497,23 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":1500,
-            "Taille":"Moyenne (aileron)"
+            "location":[0],
+            "sellPrice":1500,
+            "size":"Moyenne (aileron)"
         },
         {
-            "Nom":"Requin marteau",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Requin marteau"
+            },
+            "rarity":2,
+            "months":[
                 5,
                 6,
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2340,20 +2532,23 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":8000,
-            "Taille":"Énorme (aileron)"
+            "location":[0],
+            "sellPrice":8000,
+            "size":"Énorme (aileron)"
         },
         {
-            "Nom":"Requin scie",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Requin scie"
+            },
+            "rarity":2,
+            "months":[
                 5,
                 6,
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2372,56 +2567,23 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":12000,
-            "Taille":"Énorme (aileron)"
+            "location":[0],
+            "sellPrice":12000,
+            "size":"Énorme (aileron)"
         },
         {
-            "Nom":"Requin-baleine",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Requin-baleine"
+            },
+            "rarity":2,
+            "months":[
                 5,
                 6,
                 7,
                 8
             ],
-            "Heure":[
-                0,
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19,
-                20,
-                21,
-                22,
-                23
-            ],
-            "Lieu":"Océan",
-            "Prix":13000,
-            "Taille":"Énorme (aileron)"
-        },
-        {
-            "Nom":"Saumon",
-            "Rareté": 0,
-            "Période":[
-                8
-            ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2447,14 +2609,56 @@
                 22,
                 23
             ],
-            "Lieu":"Embouchure de rivière",
-            "Prix":700,
-            "Taille":"Grande"
+            "location":[0],
+            "sellPrice":13000,
+            "size":"Énorme (aileron)"
         },
         {
-            "Nom":"Saumon masou",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Saumon"
+            },
+            "rarity": 0,
+            "months":[
+                8
+            ],
+            "hours":[
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ],
+            "location":[4],
+            "sellPrice":700,
+            "size":"Grande"
+        },
+        {
+            "id": 0,
+            "name": {
+                "fr": "Saumon masou"
+            },
+            "rarity": 0,
+            "months":[
                 2,
                 3,
                 4,
@@ -2463,7 +2667,7 @@
                 9,
                 10
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2482,17 +2686,20 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière (falaise)",
-            "Prix":1000,
-            "Taille":"Petite/moyenne"
+            "location":[3],
+            "sellPrice":1000,
+            "size":"Petite/moyenne"
         },
         {
-            "Nom":"Saumon roi",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Saumon roi"
+            },
+            "rarity":1,
+            "months":[
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2518,14 +2725,17 @@
                 22,
                 23
             ],
-            "Lieu":"Embouchure de rivière",
-            "Prix":1800,
-            "Taille":"Énorme"
+            "location":[4],
+            "sellPrice":1800,
+            "size":"Énorme"
         },
         {
-            "Nom":"Scarus",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Scarus"
+            },
+            "rarity":1,
+            "months":[
                 2,
                 3,
                 4,
@@ -2536,7 +2746,7 @@
                 9,
                 10
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2562,14 +2772,17 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":5000,
-            "Taille":"Moyenne"
+            "location":[0],
+            "sellPrice":5000,
+            "size":"Moyenne"
         },
         {
-            "Nom":"Silure",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Silure"
+            },
+            "rarity": 0,
+            "months":[
                 4,
                 5,
                 6,
@@ -2577,7 +2790,7 @@
                 8,
                 9
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2596,21 +2809,24 @@
                 22,
                 23
             ],
-            "Lieu":"Étang",
-            "Prix":800,
-            "Taille":"Moyenne"
+            "location":[24],
+            "sellPrice":800,
+            "size":"Moyenne"
         },
         {
-            "Nom":"Têtard",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Têtard"
+            },
+            "rarity":1,
+            "months":[
                 2,
                 3,
                 4,
                 5,
                 6
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2636,18 +2852,21 @@
                 22,
                 23
             ],
-            "Lieu":"Étang",
-            "Prix":100,
-            "Taille":"Minuscule"
+            "location":[24],
+            "sellPrice":100,
+            "size":"Minuscule"
         },
         {
-            "Nom":"Tête-de-serpent",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Tête-de-serpent"
+            },
+            "rarity":1,
+            "months":[
                 6,
                 7
             ],
-            "Heure":[
+            "hours":[
                 9,
                 10,
                 11,
@@ -2656,21 +2875,24 @@
                 14,
                 15
             ],
-            "Lieu":"Étang",
-            "Prix":5500,
-            "Taille":"Grande"
+            "location":[24],
+            "sellPrice":5500,
+            "size":"Grande"
         },
         {
-            "Nom":"Thon",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Thon"
+            },
+            "rarity":2,
+            "months":[
                 0,
                 1,
                 2,
                 3,
                 10
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2696,21 +2918,24 @@
                 22,
                 23
             ],
-            "Lieu":"Océan (ponton)",
-            "Prix":7000,
-            "Taille":"Énorme"
+            "location":[1],
+            "sellPrice":7000,
+            "size":"Énorme"
         },
         {
-            "Nom":"Tilapia",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Tilapia"
+            },
+            "rarity": 0,
+            "months":[
                 5,
                 6,
                 7,
                 8,
                 9
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2736,14 +2961,17 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":800,
-            "Taille":"Moyenne"
+            "location":[2],
+            "sellPrice":800,
+            "size":"Moyenne"
         },
         {
-            "Nom":"Tortue serpentine",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Tortue serpentine"
+            },
+            "rarity":1,
+            "months":[
                 3,
                 4,
                 5,
@@ -2752,7 +2980,7 @@
                 8,
                 9
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2761,18 +2989,21 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":5000,
-            "Taille":"Moyenne"
+            "location":[2],
+            "sellPrice":5000,
+            "size":"Moyenne"
         },
         {
-            "Nom":"Tortue trionyx",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Tortue trionyx"
+            },
+            "rarity":1,
+            "months":[
                 7,
                 8
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2791,14 +3022,17 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":3750,
-            "Taille":"Moyenne"
+            "location":[2],
+            "sellPrice":3750,
+            "size":"Moyenne"
         },
         {
-            "Nom":"Truite dorée",
-            "Rareté":2,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Truite dorée"
+            },
+            "rarity":2,
+            "months":[
                 0,
                 1,
                 2,
@@ -2808,7 +3042,7 @@
                 9,
                 10
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2827,14 +3061,17 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière (falaise)",
-            "Prix":15000,
-            "Taille":"Moyenne"
+            "location":[3],
+            "sellPrice":15000,
+            "size":"Moyenne"
         },
         {
-            "Nom":"Vandoise",
-            "Rareté": 0,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Vandoise"
+            },
+            "rarity": 0,
+            "months":[
                 0,
                 1,
                 2,
@@ -2848,7 +3085,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2867,14 +3104,17 @@
                 22,
                 23
             ],
-            "Lieu":"Rivière",
-            "Prix":240,
-            "Taille":"Moyenne"
+            "location":[2],
+            "sellPrice":240,
+            "size":"Moyenne"
         },
         {
-            "Nom":"Vivaneau",
-            "Rareté":1,
-            "Période":[
+            "id": 0,
+            "name": {
+                "fr": "Vivaneau"
+            },
+            "rarity":1,
+            "months":[
                 0,
                 1,
                 2,
@@ -2888,7 +3128,7 @@
                 10,
                 11
             ],
-            "Heure":[
+            "hours":[
                 0,
                 1,
                 2,
@@ -2914,9 +3154,9 @@
                 22,
                 23
             ],
-            "Lieu":"Océan",
-            "Prix":3000,
-            "Taille":"Grande"
+            "location":[0],
+            "sellPrice":3000,
+            "size":"Grande"
         }
     ]
 }
