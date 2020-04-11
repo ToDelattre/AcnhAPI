@@ -1,0 +1,191 @@
+[
+    {
+        "id": 0,
+        "label": {
+            "fr": "Océan",
+            "en": "Sea"
+        }
+    },
+    {
+        "id": 1,
+        "label": {
+            "fr": "Ponton",
+            "en": "Pier"
+        }
+    },
+    {
+        "id": 2,
+        "label": {
+            "fr": "Rivière",
+            "en": "River"
+        }
+    },
+    {
+        "id": 3,
+        "label": {
+            "fr": "Cascade",
+            "en": "Clifftop"
+        }
+    },
+    {
+        "id": 4,
+        "label": {
+            "fr": "Embouchure",
+            "en": "River Mouth"
+        }
+    },
+    {
+        "id": 5,
+        "label": {
+            "fr": "Arbres",
+            "en": "Trees"
+        }
+    },
+    {
+        "id": 6,
+        "label": {
+            "fr": "Palmiers",
+            "en": "Palm Trees"
+        }
+    },
+    {
+        "id": 7,
+        "label": {
+            "fr": "Sol",
+            "en": "Ground"
+        }
+    },
+    {
+        "id": 8,
+        "label": {
+            "fr": "Sous la Terre",
+            "en": "Underground"
+        }
+    },
+    {
+        "id": 9,
+        "label": {
+            "fr": "Ciel",
+            "en": "Sky"
+        }
+    },
+    {
+        "id": 10,
+        "label": {
+            "fr": "Plage",
+            "en": "Beach"
+        }
+    },
+    {
+        "id": 11,
+        "label": {
+            "fr": "Boules de neige",
+            "en": "Snowballs"
+        }
+    },
+    {
+        "id": 12,
+        "label": {
+            "fr": "Souches d'arbres",
+            "en": "Stumps"
+        }
+    },
+    {
+        "id": 13,
+        "label": {
+            "fr": "Fleurs",
+            "en": "Flowers"
+        }
+    },
+    {
+        "id": 14,
+        "label": {
+            "fr": "Rochers",
+            "en": "Rocks"
+        }
+    },
+    {
+        "id": 15,
+        "label": {
+            "fr": "Surface de l'eau",
+            "en": "Water surface"
+        }
+    },
+    {
+        "id": 16,
+        "label": {
+            "fr": "Navets Pourris",
+            "en": "Rotten turnips"
+        }
+    },
+    {
+        "id": 17,
+        "label": {
+            "fr": "Près de l'eau",
+            "en": "Near water"
+        }
+    },
+    {
+        "id": 18,
+        "label": {
+            "fr": "Villageois",
+            "en": "Villager"
+        }
+    },
+    {
+        "id": 19,
+        "label": {
+            "fr": "Fleurs Blanches",
+            "en": "White flowers"
+        }
+    },
+    {
+        "id": 20,
+        "label": {
+            "fr": "Lumières",
+            "en": "Lights"
+        }
+    },
+    {
+        "id": 21,
+        "label": {
+            "fr": "Déchets",
+            "en": "Garbage"
+        }
+    },
+    {
+        "id": 22,
+        "label": {
+            "fr": "Rochers (pluie)",
+            "en": "Rocks (rain)"
+        }
+    },
+    {
+        "id": 23,
+        "label": {
+            "fr": "Rochers de plage",
+            "en": "Beach rocks"
+        }
+    },
+    {
+        "id": 24,
+        "label": {
+            "fr": "Étang",
+            "en": "Pond"
+        }
+    },
+    {
+        "id": 25,
+        "label": {
+            "fr": "Océan (pluie/neige/appâts)",
+            "en": "Sea (rain/snow/baits)"
+        }
+    },
+    {
+        "id": 25,
+        "label": {
+            "fr": "Fleurs Hybrides",
+            "en": "Hybrid flowers"
+        }
+    }
+]
