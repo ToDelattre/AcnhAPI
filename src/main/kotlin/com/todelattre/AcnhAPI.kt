@@ -1,7 +1,7 @@
 package com.todelattre
 
+import com.todelattre.api.bugRoutes
 import com.todelattre.api.fishRoutes
-import com.todelattre.api.insectRoutes
 import io.javalin.Javalin
 import io.javalin.apibuilder.ApiBuilder.path
 
@@ -11,7 +11,7 @@ fun main() {
     app.routes {
         path("api") {
             fishRoutes()
-            insectRoutes()
+            bugRoutes()
         }
     }
 }

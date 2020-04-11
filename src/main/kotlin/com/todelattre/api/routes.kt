@@ -12,8 +12,8 @@ fun fishRoutes() =
                 findFishes(
                     ctx.queryParam("name"),
                     ctx.queryParam("rarity"),
-                    ctx.queryParam("period"),
-                    ctx.queryParam("hour"),
+                    ctx.queryParam("months"),
+                    ctx.queryParam("hours"),
                     ctx.queryParam("location"),
                     ctx.queryParam("price")
                     )
@@ -22,15 +22,15 @@ fun fishRoutes() =
         }
     }
 
-fun insectRoutes() =
+fun bugRoutes() =
     path("/bugs") {
         get("") { ctx -> runBlocking {
             ctx.json(
                 findBugs(
                     ctx.queryParam("name"),
                     ctx.queryParam("rarity"),
-                    ctx.queryParam("period"),
-                    ctx.queryParam("hour"),
+                    ctx.queryParam("months"),
+                    ctx.queryParam("hours"),
                     ctx.queryParam("location"),
                     ctx.queryParam("price")
                 )

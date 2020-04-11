@@ -6,9 +6,9 @@ import org.bson.Document
 import org.litote.kmongo.coroutine.toList
 
 /**
- * Fishes collection containing all the information about fishes
+ * Bugs collection containing all the information about bugs
  */
-val bugs = database.getCollection("Insects")
+val bugs = database.getCollection("Bugs")
 
 suspend fun findBugs(
     name: String?,

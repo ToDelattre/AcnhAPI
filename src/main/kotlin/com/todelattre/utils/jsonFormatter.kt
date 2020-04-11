@@ -12,12 +12,12 @@ fun paramsToJson(
 ): String {
     val params: MutableList<String> = mutableListOf()
 
-    name?.run { params.add("Nom: {\$regex: '$this'}") }
-    rarity?.run { params.add("Rareté: {\$regex: '$this'}") }
-    period?.run { params.add("Période: {\$in: ${this.split(",")}}") }
-    hour?.run { params.add("Heure: {\$regex: '${this.split(",")}'}") }
-    location?.run { params.add("Lieu: {\$in: '${this.split(",")}'}") }
-    sellPrice?.run { params.add("Nom: {\$gt: '${this.toInt()}'}") }
+    name?.run { params.add("name: {\$regex: '$this'}") }
+    rarity?.run { params.add("rarity: {\$in: ${this.split(",")}") }
+    period?.run { params.add("months: {\$in: ${this.split(",")}}") }
+    hour?.run { params.add("hours: {\$regex: '${this.split(",")}'}") }
+    location?.run { params.add("location: {\$in: '${this.split(",")}'}") }
+    sellPrice?.run { params.add("sellPrice: {\$gt: '${this.toInt()}'}") }
 
     println("{${params.joinToString(",")}}")
     return "{${params.joinToString(",")}}"
